@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 # if the prior command is executed and returns 0, the later one will be excuted.
 mkdir ./testing && cp test.txt ./testing

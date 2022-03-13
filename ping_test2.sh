@@ -1,3 +1,5 @@
+#! /bin/bash
+
 HOST="google22.com"
 
 ping -c 1 $HOST
